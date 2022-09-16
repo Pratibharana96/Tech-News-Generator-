@@ -25,5 +25,5 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 https://html2canvas.hertzen.com/
 
 Demo Images of the Application is here:
-<img src="/satic/demo/somefilename1.png" alt="demo data" title="Demo Data title">
-<img src="/satic/demo/somefilename.png" alt="demo data" title="Demo Data title">
+<img src="/static/demo/somefilename1.png" alt="demo data" title="Demo Data title">
+<img src="/static/demo/somefilename.png" alt="demo data" title="Demo Data title">
