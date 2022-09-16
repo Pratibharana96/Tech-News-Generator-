@@ -23,3 +23,7 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 >> add js file inside static>>js>>h2c.min.js from html2canvas.hertzen.com
 https://html2canvas.hertzen.com/
+
+Demo Images of the Application is here:
+<img src="/satic/demo/somefilename1.png" alt="demo data" title="Demo Data title">
+<img src="/satic/demo/somefilename.png" alt="demo data" title="Demo Data title">
